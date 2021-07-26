@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @syarafinasupian
-- 👀 I’m interested in high school
-- 🌱 I’m currently learning on how to build an app
-- 💞️ I’m looking to collaborate on anyone who can help me
-- 📫 How to reach me can dm me at syarafina.supian
+- 👋 Hi, I’m 
+- 👀 I’m interested 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate 
+- 📫 How to reach me 
 
 <!---
 syarafinasupian/syarafinasupian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
